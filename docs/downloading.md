@@ -23,5 +23,8 @@ The version of the Pandoc software you need to install will vary depending on th
 2. Navigate to [pandoc.org](https://pandoc.org)
 3. Click the "Installing" tab as shown:
 
+4. Select the latest Mac OS installer as shown:
+
+5. If you see the following popup, you have successfully downloaded Pandoc! 
 
 {% include footer.md %}

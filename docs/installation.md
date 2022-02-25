@@ -18,12 +18,15 @@ Similarly to downloading Pandoc, installing it is different depending on the ope
 
 5. Finally, select install
 
-When the installer closes automatically, you will know Pandoc has successfully installed
+When the installer closes automatically, you will know Pandoc has successfully installed!
 
 ## Mac:
 
+1. In the installation popup, click the "OK" button as shown:
 
+2. Click the "Continue" button for the remaining installation prompts, as seen below:
 
+3. Once the installer prompts you to move itself to the trash, the installation is complete!
 
 
 
