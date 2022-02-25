@@ -37,9 +37,9 @@ To convert from Markdown to Word you will first need to open up the terminal or 
 	> cd Desktop
 
 3. Then copy and paste the following command into the window:
-	> pandoc -s <filename.md> -o output.docx
+	> pandoc -s input.md -o output.docx
 
-4. Modify the <filename.md> to match the name of your markdown file on your desktop
+4. Modify the "input.md" to match the name of your markdown file on your desktop
 
 5. Optionally, you may change the name of output.docx to change the name of the output file before it is made
 
