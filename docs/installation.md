@@ -26,7 +26,7 @@ When the installer closes automatically, you will know Pandoc has successfully i
 
 2. Click the "Continue" button for the remaining installation prompts, as seen below:
 
-3. Once the installer prompts you to move itself to the trash, the installation is complete!
+Once the installer prompts you to move itself to the trash, the installation is complete!
 
 
 

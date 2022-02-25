@@ -11,7 +11,9 @@ The version of the Pandoc software you need to install will vary depending on th
 
 ## Windows:
 1. Open your browser
+
 2. Navigate to [pandoc.org](https://pandoc.org)
+
 3. Click the "Installing" tab as shown:
 
 4. Select the latest Windows installer as shown:
@@ -20,7 +22,9 @@ The version of the Pandoc software you need to install will vary depending on th
 
 ## Mac OS:
 1. Open your browser
+
 2. Navigate to [pandoc.org](https://pandoc.org)
+
 3. Click the "Installing" tab as shown:
 
 4. Select the latest Mac OS installer as shown:
