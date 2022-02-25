@@ -15,14 +15,14 @@ Similarly to downloading Pandoc, installing it is different depending on the ope
 3. Click "Run" in the security window as shown:
 
 <figure>
-<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<img src="media/Windows3.png" alt="Picture of a BLT sandwich">
 <figcaption>Figure 1: Your sandwich should look like this</figcaption>
 </figure>
 
 4. Select the terms and agreements as shown:
 
 <figure>
-<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<img src="media/Windows4.png" alt="Picture of a BLT sandwich">
 <figcaption>Figure 1: Your sandwich should look like this</figcaption>
 </figure>
 
@@ -35,14 +35,14 @@ When the installer closes automatically, you will know Pandoc has successfully i
 1. In the installation popup, click the "OK" button as shown:
 
 <figure>
-<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<img src="media/Mac2.png" alt="Picture of a BLT sandwich">
 <figcaption>Figure 1: Your sandwich should look like this</figcaption>
 </figure>
 
 2. Click the "Continue" button for the remaining installation prompts, as seen below:
 
 <figure>
-<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<img src="media/Mac3.png" alt="Picture of a BLT sandwich">
 <figcaption>Figure 1: Your sandwich should look like this</figcaption>
 </figure>
 
