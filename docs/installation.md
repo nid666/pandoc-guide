@@ -4,7 +4,7 @@
 
 Similarly to downloading Pandoc, installing it is different depending on the operating system you are using. 
 
-**warning: Trying to use another operating systems install instructions will result in the installation failing.**
+**Warning: Trying to use another operating systems install instructions will result in the installation failing.**
 
 ## Windows: 
 1. Locate the downloaded file
@@ -14,7 +14,17 @@ Similarly to downloading Pandoc, installing it is different depending on the ope
 
 3. Click "Run" in the security window as shown:
 
+<figure>
+<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<figcaption>Figure 1: Your sandwich should look like this</figcaption>
+</figure>
+
 4. Select the terms and agreements as shown:
+
+<figure>
+<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<figcaption>Figure 1: Your sandwich should look like this</figcaption>
+</figure>
 
 5. Finally, select install
 
@@ -24,7 +34,17 @@ When the installer closes automatically, you will know Pandoc has successfully i
 
 1. In the installation popup, click the "OK" button as shown:
 
+<figure>
+<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<figcaption>Figure 1: Your sandwich should look like this</figcaption>
+</figure>
+
 2. Click the "Continue" button for the remaining installation prompts, as seen below:
+
+<figure>
+<img src="sandwich.jpg" alt="Picture of a BLT sandwich">
+<figcaption>Figure 1: Your sandwich should look like this</figcaption>
+</figure>
 
 Once the installer prompts you to move itself to the trash, the installation is complete!
 
