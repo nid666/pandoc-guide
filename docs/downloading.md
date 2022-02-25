@@ -24,3 +24,4 @@ The version of the Pandoc software you need to install will vary depending on th
 3. Click the 'Installing' tab as shown:
 
 
+{% include footer.md %}
