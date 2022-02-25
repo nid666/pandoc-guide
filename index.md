@@ -1,4 +1,4 @@
-Pandoc Conversion Guide
+# Pandoc Conversion Guide
 
 - [Welcome](docs/welcome.md)
 - [Downloading](docs/downloading.md)
