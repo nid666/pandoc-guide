@@ -7,6 +7,7 @@ To convert from Word to Markdown you will also need to open up the terminal or c
 ### Windows
 
 1. Press and hold the windows key on your keyboard
+
 	*This will be on the bottom left corner and will have the windows logo on it*
 
 2. While the key is pressed, hit the "R" key
