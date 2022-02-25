@@ -10,47 +10,47 @@ The version of the Pandoc software you need to install will vary depending on th
 
 
 ## Windows:
-1. Open your browser
+1\. Open your browser
 
-2. Navigate to [pandoc.org](https://pandoc.org)
+2\. Navigate to [pandoc.org](https://pandoc.org)
 
-3. Click the "Installing" tab as shown:
+3\. Click the "Installing" tab as shown:
 
  <figure>
  <img src="media/Windows1.png" alt="Installation tab image">
  <figcaption>Figure 1: This is where to locate the installation tab  on the webpage</figcaption>
  </figure>
 
-{:start="4"}
-4. Select the latest Windows installer as shown:
+
+4\. Select the latest Windows installer as shown:
 
  <figure>
  <img src="media/Windows2.png" alt="Image of installer download link">
  <figcaption>Figure 2: This is the installer download button for windows</figcaption>
  </figure>
 
-5. If you see the installer file downloading, you have successfully downloaded Pandoc!
+5\. If you see the installer file downloading, you have successfully downloaded Pandoc!
 
 ## Mac OS:
-1. Open your browser
+1\. Open your browser
 
-2. Navigate to [pandoc.org](https://pandoc.org)
+2\. Navigate to [pandoc.org](https://pandoc.org)
 
-3. Click the "Installing" tab as shown:
+3\. Click the "Installing" tab as shown:
 
  <figure>
  <img src="media/Windows1.png" alt="The image of the installation tab">
  <figcaption>Figure 1: This is where to locate the installation tab on the webpage</figcaption>
  </figure>
 
-4. Select the latest Mac OS installer as shown:
+4\. Select the latest Mac OS installer as shown:
 
  <figure>
  <img src="media/Mac1.png" alt="Image of the Mac Pandoc installer button">
  <figcaption>Figure 1: This is where you can locate the Mac installer download button</figcaption>
  </figure>
 
-5. If you see the following popup, you have successfully downloaded Pandoc! 
+5\. If you see the following popup, you have successfully downloaded Pandoc! 
 
  <figure>
  <img src="media/Mac2.png" alt="Picture of installer popup">
