@@ -6,7 +6,7 @@
 
 The version of the Pandoc software you need to install will vary depending on the operating system of the computer you are currently using. Find your operating system listed below for the appropriate download instructions. 
 
-**warning: if you download a version of Pandoc that is not for your operating system, it will not install**
+**Warning: if you download a version of Pandoc that is not for your operating system, it will not install**
 
 
 ## Windows:
@@ -47,14 +47,14 @@ The version of the Pandoc software you need to install will vary depending on th
 
  <figure>
  <img src="media/Mac1.png" alt="Image of the Mac Pandoc installer button">
- <figcaption>Figure 1: This is where you can locate the Mac installer download button</figcaption>
+ <figcaption>Figure 2: This is where you can locate the Mac installer download button</figcaption>
  </figure>
 
 5\. If you see the following popup, you have successfully downloaded Pandoc! 
 
  <figure>
  <img src="media/Mac2.png" alt="Picture of installer popup">
- <figcaption>Figure 1: This is what your Pandoc installer popup should look like</figcaption>
+ <figcaption>Figure 3: This is what your Pandoc installer popup should look like</figcaption>
  </figure>
 
 {% include footer.md %}
