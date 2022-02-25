@@ -21,6 +21,7 @@ The version of the Pandoc software you need to install will vary depending on th
  <figcaption>Figure 1: This is where to locate the installation tab  on the webpage</figcaption>
  </figure>
 
+{:start="4"}
 4. Select the latest Windows installer as shown:
 
  <figure>
