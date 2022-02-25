@@ -1,1 +1,1 @@
-Back to [the home page](/../tree/index.html)
+Back to [the home page](/../pandoc-guide/index.html)
