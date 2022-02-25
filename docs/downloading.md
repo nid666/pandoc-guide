@@ -40,21 +40,21 @@ The version of the Pandoc software you need to install will vary depending on th
 
 	<figure>
 	<img src="media/Windows1.png" alt="The image of the installation tab">
-	<figcaption>This is where to locate the installation tab on the webpage</figcaption>
+	<figcaption>Figure 1: This is where to locate the installation tab on the webpage</figcaption>
 	</figure>
 
 4. Select the latest Mac OS installer as shown:
 
 	<figure>
 	<img src="media/Mac1.png" alt="Image of the Mac Pandoc installer button">
-	<figcaption>This is where you can locate the Mac installer download button</figcaption>
+	<figcaption>Figure 2: This is where you can locate the Mac installer download button</figcaption>
 	</figure>
 
 5. If you see the following popup, you have successfully downloaded Pandoc! 
 
 	<figure>
 	<img src="media/Mac2.png" alt="Picture of installer popup">
-	<figcaption>This is what your Pandoc installer popup should look like</figcaption>
+	<figcaption>Figure 3: This is what your Pandoc installer popup should look like</figcaption>
 	</figure>
 
 {% include footer.md %}
